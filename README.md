@@ -8,9 +8,7 @@ This project was developed as part of the **Full Stack Developer Intern screenin
 
 # 🚀 Live Demo
 
-**Live Website:** https://your-project.vercel.app
-
-**GitHub Repository:** https://github.com/yourusername/crm-landing
+**Live Website:** https://crm-landing-5wpp.vercel.app/
 
 ---
 
